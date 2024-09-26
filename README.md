@@ -19,4 +19,4 @@
 1. Acesse o site: [Meu Site de Desenho](https://canvas-desenho.netlify.app/)
 2. Comece a desenhar no canvas! Use o botão "Limpar" para apagar tudo e começar de novo.
 
-![Gatinho]([https://i.ibb.co/876GH2g/gatos.jpg](https://static.vecteezy.com/system/resources/previews/009/973/924/original/cute-kitty-cat-head-cartoon-element-free-png.png))
+![Gatinho](https://static.vecteezy.com/system/resources/previews/009/973/924/original/cute-kitty-cat-head-cartoon-element-free-png.png)
